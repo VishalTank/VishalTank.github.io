@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="49" column="102" selection-start-line="49" selection-start-column="102" selection-end-line="49" selection-end-column="102" />
+            <state relative-caret-position="326">
+              <caret line="72" column="47" lean-forward="true" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -37,7 +37,7 @@
       <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="12660">
               <caret line="633" column="10" selection-start-line="633" selection-start-column="4" selection-end-line="633" selection-end-column="10" />
             </state>
           </provider>
@@ -73,6 +73,7 @@
       <find>play</find>
       <find>photo</find>
       <find>github</find>
+      <find>compet</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -116,57 +117,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="Developer-Theme-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Developer-Theme-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="VishalTank.github.io-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VishalTank.github.io-master" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="Developer-Theme-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Developer-Theme-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="VishalTank.github.io-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VishalTank.github.io-master" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="Developer-Theme-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Developer-Theme-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="about" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Developer-Theme-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Developer-Theme-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Developer-Theme-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Developer-Theme-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="VishalTank.github.io-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VishalTank.github.io-master" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="Developer-Theme-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Developer-Theme-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="VishalTank.github.io-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VishalTank.github.io-master" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="projects" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Developer-Theme-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Developer-Theme-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Developer-Theme-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Developer-Theme-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="min" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Developer-Theme-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Developer-Theme-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -183,11 +153,13 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Vishal\Downloads\Developer-Theme-master\assets\images\projects" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Comp. Related\VishalTank.github.io-master\assets\images\projects" />
       <recent name="C:\Users\Vishal\Downloads\Developer-Theme-master\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Comp. Related\VishalTank.github.io-master\assets\images\projects" />
+      <recent name="C:\Users\Vishal\Downloads\Developer-Theme-master\assets\images\projects" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,11 +195,13 @@
       <workItem from="1528107648544" duration="15832000" />
       <workItem from="1528286694891" duration="123000" />
       <workItem from="1528446723403" duration="3931000" />
+      <workItem from="1529758046254" duration="1665000" />
+      <workItem from="1529759802912" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19886000" />
+    <option name="totallyTimeSpent" value="21621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -241,7 +215,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -253,7 +227,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32871014" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +237,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="110" column="109" selection-start-line="110" selection-start-column="109" selection-end-line="110" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12660">
+          <caret line="633" column="10" selection-start-line="633" selection-start-column="4" selection-end-line="633" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="49" column="102" selection-start-line="49" selection-start-column="102" selection-end-line="49" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12660">
+          <caret line="633" column="10" selection-start-line="633" selection-start-column="4" selection-end-line="633" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="860">
@@ -317,13 +319,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2084">
-          <caret line="277" column="43" selection-start-line="277" selection-start-column="43" selection-end-line="277" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.html" />
     <entry file="file://$USER_HOME$/Documents/GitHub/VishalTank.github.io/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
@@ -333,15 +329,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="12660">
           <caret line="633" column="10" selection-start-line="633" selection-start-column="4" selection-end-line="633" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="49" column="102" selection-start-line="49" selection-start-column="102" selection-end-line="49" selection-end-column="102" />
+        <state relative-caret-position="326">
+          <caret line="72" column="47" lean-forward="true" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="47" />
         </state>
       </provider>
     </entry>
