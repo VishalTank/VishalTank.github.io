@@ -232,6 +232,8 @@ iframe {
 }
 .latest .featured-image {
   position: relative;
+  height: 480px;
+  width: max-content;
 }
 .latest .featured-image .text {
   background: #3AAA64;
