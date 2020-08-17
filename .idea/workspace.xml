@@ -36,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/portfolio/modals" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ALL IMP FILES  (DO NOT DELETE)\All Projects\(IMP) Github Projects\VishalTank.github.io" />
       <recent name="C:\Users\Vishal\Downloads\ceevee\images\portfolio\modals" />
       <recent name="C:\Users\Vishal\Downloads\ceevee\images\portfolio" />
       <recent name="C:\Users\Vishal\Downloads\ceevee\assets" />
@@ -71,10 +72,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597682611112">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597682611112" />
     <state x="2381" y="165" key="SettingsEditor" timestamp="1597677351966">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="165" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597677351966" />
+    <state x="2588" y="106" width="595" height="828" key="find.popup" timestamp="1597682330838">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2588" y="106" width="595" height="828" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597682330838" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597679078745">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
