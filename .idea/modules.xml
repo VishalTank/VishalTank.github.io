@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Developer-Theme-master.iml" filepath="$PROJECT_DIR$/.idea/Developer-Theme-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ceevee.iml" filepath="$PROJECT_DIR$/.idea/ceevee.iml" />
     </modules>
   </component>
 </project>
